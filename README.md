@@ -10,17 +10,17 @@ This project focuses on the use of multimodal transformer fusion techniques for 
 - Detailed performance metrics and analysis.
 
 ## Content
-The project consists of the following files:
-- **[LICENSE](LICENSE)**
+The project consists of a single document available in PDF format:
+- **[Multimodal Alzheimer’s Disease Diagnosis System](Multimodal%20Alzheimer’s%20Disease%20Diagnosis%20System.pdf)**
 
 ## How to Use
-1. Clone the repository to your local machine.
-2. Follow the instructions in the project documentation to set up the environment and run the analysis.
-3. Review the results and performance metrics provided in the output.
+1. Download the PDF file from the repository.
+2. Open the document using any PDF reader.
+3. Review the standards and guidelines outlined in the document.
 
 ## Contributing
 Contributions are welcome! You can:
-- Provide feedback or suggest updates to the project.
+- Provide feedback or suggest updates to the document.
 - Share use cases or applications relevant to the project.
 - Raise issues or discussions for additional topics.
 
